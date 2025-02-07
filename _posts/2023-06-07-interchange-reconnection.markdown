@@ -36,7 +36,7 @@ In this scenario, magnetic reconnection is continuous and the wind is driven by 
 archivePrefix = {arXiv},
        eprint = {2208.07932},
  primaryClass = {astro-ph.SR},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023Natur.618..252B},
+          url = {https://ui.adsabs.harvard.edu/abs/2023Natur.618..252B},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 </textarea>
